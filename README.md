@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/github/license/sugigu/DesktopIconAutoHide)
 
-PowerShell script to automatically hide Windows desktop icons after 10 seconds of user inactivity. OLED-friendly.
+Automatically hides Windows desktop icons after 10 seconds of user inactivity. OLED-friendly.
 
 ## Features
 
