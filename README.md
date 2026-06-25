@@ -1,8 +1,9 @@
 # Desktop Icon Auto Hide
+![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/github/license/sugigu/DesktopIconAutoHide)
 
-A small PowerShell utility for Windows 11 that automatically hides desktop icons after a period of inactivity, and instantly shows them again when keyboard or mouse input is detected.
-
-Because apparently a clean desktop is too much to ask from Windows without poking `user32.dll` with a stick.
+PowerShell script to automatically hide Windows desktop icons after 10 seconds of user inactivity. OLED-friendly.
 
 ## Features
 
