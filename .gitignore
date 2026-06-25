@@ -1,0 +1,22 @@
+# PowerShell temporary files
+*.ps1xml
+*.psm1.tmp
+*.ps1.tmp
+
+# Logs
+*.log
+logs/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor folders
+.vscode/
+.idea/
+
+# Archive/build outputs
+*.zip
+*.7z
+*.rar
